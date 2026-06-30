@@ -4,6 +4,14 @@ A single-file browser game for introducing basic networking ideas.
 
 Players send packets from a laptop to a school server, compare three routes, and see how latency, congestion, packet loss, reliability, and total time affect delivery.
 
+## Scan to Play
+
+Open the game at:
+
+[https://arif-zaman.github.io/packet-delivery/](https://arif-zaman.github.io/packet-delivery/)
+
+![QR code for Packet Delivery Game](packet-delivery-qr.png)
+
 ## Run It
 
 1. Download or clone this repository.
